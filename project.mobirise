@@ -56,8 +56,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-family": "'Indie Flower', cursive"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -101,9 +101,9 @@
             "bgColor": "#282828",
             "fontSize": "1.15",
             "fontName": {
-              "name": "Indie Flower",
-              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "css": "'Indie Flower', cursive"
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
