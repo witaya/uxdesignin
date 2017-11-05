@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -504,6 +505,9 @@ h6,
 #msg-box3-i .mbr-section-title,
 #msg-box3-i p {
   color: #000;
+}
+#contacts4-a P {
+  font-family: 'Open Sans', sans-serif;
 }
 #social-buttons4-4 .mbr-section-title,
 #social-buttons4-4 .btn-social {
