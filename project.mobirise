@@ -108,7 +108,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-8\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-8\">Mobile Website Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SEO (Search Engine Optimization)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Responsive Web Design</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-c\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-8\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-8\">Mobile Website Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SEO (Search Engine Optimization)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Responsive Web Design</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-c\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "file:///C:/Program%20Files%20(x86)/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/logo.png",
@@ -301,9 +301,9 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "columns": "5",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -343,18 +343,24 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21433160-10203751123375071-2620432149838402962-n-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13962520-1173253762746604-3566530360032977849-n-600x603.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media6": {
@@ -370,16 +376,16 @@
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Web Developer",
           "subtitle2": "Suwannee Khwanthongyim",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Graphic Design Website Design To meet requirements. Meet the need to use. This work is comparable to a decorator who is responsible for designing the interior of the shop to be beautiful.",
           "title3": "Project Manager",
           "subtitle3": "Dowroong Punsuar",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Coordination ensures that teams work along the plan, make decisions, and work together effectively on a clear purpose. And focus on what to do. And communication Make sure everyone understands what's going on, when, and why, especially the changes that need to be clear and exact.",
           "title4": "Programmer",
           "subtitle4": "Parit Boonpat",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption4": "Bring detailed design information to the computer system. From analysts to job systems. The program is written in different languages. The language used in the program will vary according to the characteristics of the database system. Test the system and send it to the system analysts for re-examination if the bug is corrected and corrected before deployment.",
+          "title5": "Financial",
+          "subtitle5": "Witaya Khuanwilai",
+          "caption5": "Prepare a daily cash status report from the payout list to the daily payout. Ready to present manager",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -399,7 +405,14 @@
               "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "center"
             }
           }
         },

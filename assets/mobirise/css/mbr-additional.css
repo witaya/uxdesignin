@@ -490,6 +490,13 @@ h6,
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  text-align: center;
+}
+#features3-8 P {
+  text-align: left;
+}
+#features3-8 H4 {
+  text-align: center;
 }
 #msg-box3-c .mbr-section-title,
 #msg-box3-c p {
