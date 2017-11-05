@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -484,6 +485,11 @@ h6,
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#features3-8 H5 {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 #msg-box3-c .mbr-section-title,
 #msg-box3-c p {

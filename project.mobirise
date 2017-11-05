@@ -366,16 +366,16 @@
             }
           },
           "title1": "System Analyst",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "Parit Jongtanasattakul",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Web Developer",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "Suwannee Khwanthongyim",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Project Manager",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "Dowroong Punsuar",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Programmer",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "Parit Boonpat",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -393,7 +393,15 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-8"
+          "_anchor": "features3-8",
+          "_styles": {
+            "H5": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {
