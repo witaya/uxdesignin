@@ -498,8 +498,11 @@ h6,
 #features3-8 H4 {
   text-align: center;
 }
-#msg-box3-c .mbr-section-title,
-#msg-box3-c p {
+#features2-m .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#msg-box3-i .mbr-section-title,
+#msg-box3-i p {
   color: #000;
 }
 #social-buttons4-4 .mbr-section-title,
