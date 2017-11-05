@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.5",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.3.5"
   },
   "pages": {
@@ -138,7 +138,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "showArrow": true,
             "imageSize": 50,
@@ -172,21 +172,18 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
-              "linkInNewWindow": false,
-              "name": "code",
-              "family": "MobiriseIcons",
               "link": "",
               "size": 250
             }
           },
           "title": "WELCOME",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "text": "UXdesign Is the team of website designers The web development team (web design), which is available to make the website according to the needs of customers. We also provide web hosting services that provide quality web hosting services to your business..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-f"
+          "_anchor": "header2-g"
         },
         {
           "_inherit": "gallery1",
