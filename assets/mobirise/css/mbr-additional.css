@@ -513,9 +513,8 @@ h6,
 #msg-box3-i p {
   color: #000;
 }
-#content5-12 .mbr-section-title,
-#content5-12 p {
-  color: #fff;
+#msg-box3-i .lead P {
+  color: #ffffff;
 }
 #form1-10 .form-control-label {
   color: #232323;
