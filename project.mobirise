@@ -383,19 +383,19 @@
             }
           },
           "title1": "System Analyst",
-          "subtitle1": "Parit Jongtanasattakul",
+          "subtitle1": "<b>Parit Jongtanasattakul</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Web Developer",
-          "subtitle2": "Suwannee Khwanthongyim",
+          "subtitle2": "<b>Suwannee Khwanthongyim</b>",
           "caption2": "Graphic Design Website Design To meet requirements. Meet the need to use. This work is comparable to a decorator who is responsible for designing the interior of the shop to be beautiful.",
           "title3": "Project Manager",
-          "subtitle3": "Dowroong Punsuar",
+          "subtitle3": "<b>Dowroong Punsuar</b>",
           "caption3": "Coordination ensures that teams work along the plan, make decisions, and work together effectively on a clear purpose. And focus on what to do. And communication Make sure everyone understands what's going on, when, and why, especially the changes that need to be clear and exact.",
           "title4": "Programmer",
-          "subtitle4": "Parit Boonpat",
+          "subtitle4": "<b>Parit Boonpat</b>",
           "caption4": "Bring detailed design information to the computer system. From analysts to job systems. The program is written in different languages. The language used in the program will vary according to the characteristics of the database system. Test the system and send it to the system analysts for re-examination if the bug is corrected and corrected before deployment.",
           "title5": "Financial",
-          "subtitle5": "Witaya Khuanwilai",
+          "subtitle5": "<b>Witaya Khuanwilai</b>",
           "caption5": "Prepare a daily cash status report from the payout list to the daily payout. Ready to present manager",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
@@ -679,13 +679,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>Address</strong><br>\n1234 Street Kathu<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@uxdesign.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Facebook</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">L</a>ine</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">I</a>nstagram</li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-11"
+          "_anchor": "contacts2-11",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
