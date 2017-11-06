@@ -526,6 +526,12 @@ h6,
 #contacts2-11 UL {
   color: #ffffff;
 }
+#contacts2-11 STRONG {
+  color: #000000;
+}
+#contacts2-11 P {
+  color: #ffffff;
+}
 #social-buttons4-4 .mbr-section-title,
 #social-buttons4-4 .btn-social {
   color: #fff;

@@ -689,6 +689,12 @@
           "_styles": {
             "UL": {
               "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           }
         },
