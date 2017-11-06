@@ -153,7 +153,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000",
             "overlayOpacity": 0.3
           },
@@ -315,7 +315,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -613,7 +613,7 @@
             "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "CONTACT US",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -669,7 +669,7 @@
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
@@ -703,7 +703,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
