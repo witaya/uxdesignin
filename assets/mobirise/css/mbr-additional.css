@@ -9,7 +9,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -495,19 +494,35 @@ h6,
 }
 #features3-8 P {
   text-align: left;
+  color: #ffffff;
 }
 #features3-8 H4 {
   text-align: center;
+  color: #fac51c;
 }
 #features2-m .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#features2-m .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
+#features2-m .mbr-cards-col:nth-child(even) .card-text {
+  color: #ffffff;
 }
 #msg-box3-i .mbr-section-title,
 #msg-box3-i p {
   color: #000;
 }
-#contacts4-a P {
-  font-family: 'Open Sans', sans-serif;
+#content5-12 .mbr-section-title,
+#content5-12 p {
+  color: #fff;
+}
+#form1-10 .form-control-label {
+  color: #232323;
+}
+#form1-10 SMALL {
+  text-align: center;
+  color: #ffffff;
 }
 #social-buttons4-4 .mbr-section-title,
 #social-buttons4-4 .btn-social {
