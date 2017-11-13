@@ -17,13 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": []
     },
     "versionFirst": "4.3.5",
-    "uniqCompNum": 41,
+    "uniqCompNum": 45,
     "versionPublish": "4.3.5",
     "favicon": "",
     "noImageResize": "true"
@@ -62,10 +62,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -99,9 +99,9 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000000",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -110,7 +110,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-14\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-8\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-m\">Mobile Website Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-m\">SEO (Search Engine Optimization)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-m\">Responsive Web Design</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\">DEPARTMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-i\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-14\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-8\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-m\">Mobile Website Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-m\">SEO (Search Engine Optimization)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-m\">Responsive Web Design</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\">DEPARTMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-i\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "file:///C:/Program%20Files%20(x86)/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/logo.png",
@@ -143,7 +143,7 @@
             "showButtons": false,
             "inverse": true,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "36",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-7.jpg",
             "parallax": true,
@@ -161,7 +161,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/copy-of-hiring-poster.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -174,6 +174,9 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 250
             }

@@ -419,9 +419,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -443,11 +440,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-1 .link {
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 #menu-1 .dropdown-item,
 #menu-1 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.083rem;
 }
 #menu-1 .link:hover,
 #menu-1 .dropdown-item:hover,
